@@ -48,4 +48,4 @@ To function correctly, DavGo requires the following permissions:
 4. Enter the displayed IP address and Port (e.g., `http://192.168.1.5:8080`) into your PC's File Explorer or web browser.
 
 ---
-**Developed by:** [@LegendAmardeep](https://github.com/LegendAmardeep) ❤️
+**Developed by:** [@LegendAmardeep](https://github.com/Amardeep-Rana) ❤️
